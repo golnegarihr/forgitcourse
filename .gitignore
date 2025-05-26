@@ -1,2 +1,3 @@
 *.txt
 !new file1.txt
+!fmerge
