@@ -1,3 +1,4 @@
 
-*.mp4
+*.txt
+!new file1.txt
 
