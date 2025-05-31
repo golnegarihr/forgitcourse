@@ -6,3 +6,5 @@ edit fot new tag
 
 
 edit for bitbucket
+
+edit for both of them
