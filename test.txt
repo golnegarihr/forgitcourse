@@ -1,9 +1,8 @@
-<<<<<<< HEAD
 salam
 
 edited in main branch
 
 edit fot new tag
-=======
-this is a first edit in this Repository
->>>>>>> d2d5d5934b5020443233e0626e373797f5a32a73
+
+
+edit for bitbucket
